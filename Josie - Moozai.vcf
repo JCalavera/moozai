@@ -1,0 +1,12 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Moozai Creative Design
+N:Morales;Josie;;;
+ORG:Moozai Creative Design;
+TITLE:Sales Manager
+TEL;type=CELL;type=VOICE;type=pref:+15205543814
+EMAIL;type=INTERNET;type=WORK;type=pref:josie@moozai.com
+URL:https://josie.moozai.com
+PHOTO;TYPE=JPEG;VALUE=URI:https://raw.githubusercontent.com/JCalavera/moozai/main/profile.png
+X-ABShowAs:COMPANY
+END:VCARD
